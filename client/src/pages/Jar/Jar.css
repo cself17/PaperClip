@@ -1,0 +1,37 @@
+.container-drag {
+	background: skyblue;
+	height: 1000px;
+}
+
+.wip {
+	background: red;
+	text-align: center;
+	height: 1000px;
+	
+}
+
+.header {
+	background: orange;
+	text-align: center;
+	align-content: center;
+
+}
+
+.task-header {
+	background: black;
+}
+
+
+.droppable {
+	background: blue;
+	background-image: url("../../components/Images/jar.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 1000px;
+}
+
+.draggable {
+
+	background: purple;
+
+}
